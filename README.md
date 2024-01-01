@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rocket-Raja007
+- 👋 Hi, I’m Maharajan
 - 👀 I’m interested in Python and web development.
 - 🌱 I’m currently learning python and html5
 - 💞️ I’m looking to collaborate on web development beginner program
